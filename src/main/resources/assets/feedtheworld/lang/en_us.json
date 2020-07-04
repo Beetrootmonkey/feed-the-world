@@ -1,0 +1,22 @@
+{
+  "block.feedtheworld.test_block": "Test Block",
+  "block.feedtheworld.iron_furnace": "Grinder",
+  "item.feedtheworld.ender_pearl_dust": "Ender Pearl Dust",
+  "item.feedtheworld.gold_dust": "Gold Dust",
+  "item.feedtheworld.iron_dust": "Iron Dust",
+  "item.feedtheworld.lapis_lazuli_dust": "Lapis Lazuli Dust",
+  "item.feedtheworld.quartz_dust": "Quartz Dust",
+  "item.feedtheworld.nether_star_dust": "Nether Star Dust",
+  "item.feedtheworld.nether_star_nugget": "Nether Star Nugget",
+  "item.feedtheworld.netherite_dust": "Netherite Dust",
+  "item.feedtheworld.netherite_scrap_dust": "Netherite Scrap Dust",
+  "item.feedtheworld.prismarine_dust": "Prismarine Dust",
+  "item.feedtheworld.grindstone": "Grindstone",
+  "item.feedtheworld.diamond_dust": "Diamond Dust",
+  "item.feedtheworld.emerald_dust": "Emerald Dust",
+  "feedtheworld:grinding": "Grinding",
+  "feedtheworld:bonus": "Bonus",
+  "feedtheworld:oven": "Oven",
+  "feedtheworld:preparation": "Preparation",
+  "feedtheworld:duration": "Duration"
+}

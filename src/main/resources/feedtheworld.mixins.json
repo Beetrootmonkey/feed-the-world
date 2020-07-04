@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.beetrootmonkey.feedtheworld.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "ModMixin",
+    "SheepShearMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

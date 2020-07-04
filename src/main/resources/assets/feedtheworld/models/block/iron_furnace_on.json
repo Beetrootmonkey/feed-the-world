@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/orientable",
+    "textures": {
+        "top": "feedtheworld:block/machine_top",
+        "front": "feedtheworld:block/furnace_front_on",
+        "side": "feedtheworld:block/machine_side"
+    }
+}
