@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "feedtheworld:piece_of_golden_apple_pie"
+    },
+    {
+      "item": "feedtheworld:piece_of_golden_apple_pie"
+    },
+    {
+      "item": "feedtheworld:piece_of_golden_apple_pie"
+    },
+    {
+      "item": "feedtheworld:piece_of_golden_apple_pie"
+    }
+  ],
+  "result": {
+    "item": "feedtheworld:golden_apple_pie"
+  }
+}

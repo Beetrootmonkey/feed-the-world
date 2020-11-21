@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "feedtheworld:piece_of_chorus_fruit_pie"
+    },
+    {
+      "item": "feedtheworld:piece_of_chorus_fruit_pie"
+    },
+    {
+      "item": "feedtheworld:piece_of_chorus_fruit_pie"
+    },
+    {
+      "item": "feedtheworld:piece_of_chorus_fruit_pie"
+    }
+  ],
+  "result": {
+    "item": "feedtheworld:chorus_fruit_pie"
+  }
+}
